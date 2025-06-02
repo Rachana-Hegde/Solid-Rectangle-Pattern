@@ -34,11 +34,9 @@ Enter number of columns: 5
 
 1. Save the code in a file, e.g., `solid_rectangle.py`.
 2. Run it using Python:
-
 ```bash
 python solid_rectangle.py
 ```
-
 3. Enter the number of rows and columns as prompted.
 
 ## 🎯 Use Case
@@ -46,6 +44,7 @@ python solid_rectangle.py
 * Great exercise for beginners learning **loops**, **input handling**, and **basic pattern printing**.
 * Can be extended to create other shapes like hollow rectangles, pyramids, etc.
 
-## 📄 License
+## 📬 Contact  
 
-This mini project is open-source and free to use under the **MIT License**.
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: Rachana-Hegde(https://github.com/Rachana-Hegde)
