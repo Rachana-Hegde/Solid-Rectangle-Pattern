@@ -47,4 +47,4 @@ Enter number of columns: 5
 ## 📬 Contact  
 
 For any inquiries or feedback, feel free to reach out:    
-🔗 **GitHub**: [Rachana-Hegde](https://github.com/your-username)  
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
