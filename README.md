@@ -34,7 +34,9 @@ Enter number of columns: 5
 
 1. Save the code in a file, e.g., `solid_rectangle.py`.
 2. Run it using Python:
+   ```bash
 python solid_rectangle.py
+```
 3. Enter the number of rows and columns as prompted.
 
 ## 🎯 Use Case
